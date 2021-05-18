@@ -27,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *SPSP Meeting 2018*
+publication_short: In *SPSP 2018*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Age-related stereotypes are an ongoing threat in the workplace. As documented by the United Nations (UN, 2007), the positive contribution of older workers (e..g, those over 50 years) is often overshadowed by ageing stereotypes. Considering that gender stereotypes are still alive in organizations, ageism places women at risk for double discrimination. We present a study that examines in a sample of 4962 Italian employed women (age >= 50) how gender- and age-related stereotype threats impact the congruity between their gender, age, and professional identities (i.e., gender/age/professional identity integration), psychological well-being, and job engagement. Results show that age stereotype threat not only leads to experiencing less age-gender identity integration but also less gender-work identity integration. The same effect was observed for gender stereotype threat, Women experiencing higher levels of gender stereotype threat reported lower levels of both gender-work identity integration and age-work identity integration.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: What happens when a woman, besides facing gender discrimination in her workplace, becomes a senior worker and therefore also runs into age discrimination?
 
 tags: []
 
