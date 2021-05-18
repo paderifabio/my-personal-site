@@ -11,29 +11,29 @@ role: Senior Data Analyst, PhD in Cognitive Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: YOOX NET A PORTER GROUP
-  url: https://www.stanford.edu/
+  url: https://www.ynap.com/it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Interested in Data Science and Analytics technologies
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Advanced Analytics
+- Social Sciences
+- Data Exploration
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Cognitive Sciences
+    institution: Catholic University of Sacred Heart
+    year: 2020
+  - course: MEng in Cognitive Sciences
+    institution: University of Turin
+    year: 2015
+  - course: BSc in Cognitive Sciences
+    institution: University of Turin
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
