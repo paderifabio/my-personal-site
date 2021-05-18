@@ -27,7 +27,7 @@ feature:
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
